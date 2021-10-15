@@ -1,0 +1,8 @@
+.sliderContainer{
+    margin:0;
+    width:100%;
+}
+
+canvas{
+    box-shadow: 0px 2px 10px 0.5px lightgray;
+}
